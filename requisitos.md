@@ -24,7 +24,7 @@ RF10	O usuário deve poder atualizar ou excluir seus próprios anúncios.
 
 RNF01	O sistema deve ser responsivo e acessível em dispositivos móveis e desktop.	
 
-RNF02	O site deve ter tempo de resposta inferior a 3 segundos por requisição.	Desempenho
+RNF02	O site deve ter tempo de resposta inferior a 3 segundos por requisição.
 
 RNF03	Os dados dos usuários devem ser armazenados de forma segura, com senhas criptografadas.	
 
