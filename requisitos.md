@@ -16,7 +16,7 @@ RF07	O sistema deve permitir que os usuários enviem mensagens ou entrem em cont
 
 RF08	O administrador deve poder gerenciar cadastros de usuários e publicações.
 
-RF09	O sistema deve enviar notificações (e-mail ou push) quando um pet semelhante for encontrado.	
+RF09	O sistema deve enviar notificações e-mail quando um pet semelhante for encontrado.	
 
 RF10	O usuário deve poder atualizar ou excluir seus próprios anúncios.
 
