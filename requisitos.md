@@ -1,6 +1,6 @@
 #O sistema tem como objetivo ajudar donos a encontrarem seus pets desaparecidos e permitir que pessoas que encontrarem animais perdidos possam registrar e localizar os tutores através do site.
 
-RF01	O sistema deve permitir o cadastro de usuários (dono, encontrador e administradores).	
+RF01	O sistema deverá permitir o cadastro de usuários (dono, encontrador e administradores).	
 
 RF02	O usuário deve poder realizar login e logout no sistema.	
 
@@ -30,7 +30,7 @@ RNF03	Os dados dos usuários devem ser armazenados de forma segura, com senhas c
 
 RNF04	O sistema deve estar disponível 24 horas por dia, 7 dias por semana.	
 
-RNF05	O site deve ser desenvolvido em tecnologia web (HTML, CSS, JavaScript, e Framework backend).
+RNF05	O site será desenvolvido em tecnologia web (HTML, CSS, JavaScript, e Framework backend).
 
 RNF06	As imagens dos pets devem ser otimizadas para carregamento rápido.
 
