@@ -1,12 +1,12 @@
 #O sistema tem como objetivo ajudar donos a encontrarem seus pets desaparecidos e permitir que pessoas que encontrarem animais perdidos possam registrar e localizar os tutores através do site.
 
-RF01	O sistema deve permitir o cadastro de usuários (dono, encontrador e administrador).	
+RF01	O sistema deve permitir o cadastro de usuários (dono, encontrador e administradores).	
 
 RF02	O usuário deve poder realizar login e logout no sistema.	
 
 RF03	O dono deve poder cadastrar um pet perdido com informações como nome, raça, cor, última localização e foto.	
 
-RF04	O encontrador deve poder registrar um animal encontrado informando detalhes e foto.	Alta
+RF04	O encontrador deve poder registrar um animal encontrado informando detalhes e foto.
 
 RF05	O sistema deve permitir buscas por pets perdidos através de filtros (localização, espécie, cor, etc.).
 
