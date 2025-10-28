@@ -1,4 +1,4 @@
-#O sistema tem como objetivo ajudar donos a encontrarem seus pets desaparecidos e permitir que pessoas que encontrarem animais perdidos possam registrar e localizar os tutores através do site.
+#O sistema tem como objetivo auxiliar donos a reencontrarem seus pets desaparecidos e permitir que pessoas que acharem animais perdidos possam cadastrar e localizar seus tutores no site.
 
 RF01	O sistema deverá permitir o cadastro de usuários (dono, encontrador e administradores).	
 
